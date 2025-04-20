@@ -22,15 +22,15 @@ Welcome to GitPDF! 🎉 GitPDF is a unique tool that generates personalized PDF 
 <img alt="githubuser" src="/src/assets/user.png">
 
 ## 🌐 Live Demo
-Check out the live demo here: 🔗 [Git-PDf-Generator Live Demo](https://task-buddy-iota.vercel.app) 🌍
+Check out the live demo here: 🔗 [Git-PDf-Generator Live Demo]() 🌍
 
 ## 🌟 Features
 
-✨ **Personalized PDFs**: Generate GitHub guides with the user's name for a personal touch.
-📄 **Comprehensive GitHub Commands**: Includes essential GitHub commands and workflows.
-🎨 **Customizable Themes**: Choose between light and dark themes for your PDF.
-⚡ **Fast and Lightweight**: Built with modern tools for quick and seamless performance.
-🔗 **Shareable PDFs**: Easily share the generated PDFs with others.
+- ✨ **Personalized PDFs**: Generate GitHub guides with the user's name for a personal touch.
+- 📄 **Comprehensive GitHub Commands**: Includes essential GitHub commands and workflows.
+- 🎨 **Customizable Themes**: Choose between light and dark themes for your PDF.
+- ⚡ **Fast and Lightweight**: Built with modern tools for quick and seamless performance.
+- 🔗 **Shareable PDFs**: Easily share the generated PDFs with others.
 
 
 ## 🖥️ Tech Stack
